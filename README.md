@@ -28,4 +28,6 @@ Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yaz
      }
     } 
 
+
+(https://www.patika.dev/tr)
 ![image](https://user-images.githubusercontent.com/107626332/180601571-150ce57a-42ab-405d-8a1d-ad77ffcdd53f.png)
